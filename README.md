@@ -1,11 +1,11 @@
-# Rxnelysr ClassManager
+# ClassManager
 
 > **Minimalist. Powerful. Flexible.**  
 > A lightweight PHP class autoloader and class-mapping manager designed to *do more with less*.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Smart Autoloading**  
   Multi-strategy class resolution with up to **5 fallback methods** (classmap, cache, direct resolution, namespace guessing, and full project scanning).
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 1. **Copy** the repository or add it to your project:
    ```bash
@@ -121,5 +121,3 @@ See [LICENSE](./LICENSE) for details.
 ### Tip
 
 If you like small-but-mighty tools, consider starring the repo—it helps others discover it!
-
-```

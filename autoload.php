@@ -2,7 +2,7 @@
 
 use Rxnelysr\ClassManager;
 
-require 'src/ClassManager.min.php';
+require 'build/ClassManager.min.php';
 
 $cfg = require 'config/autoloader.php';
 
