@@ -28,8 +28,8 @@
 
 1. **Copy** the repository or add it to your project:
    ```bash
-   git clone https://github.com/yourname/rxnelysr-classmanager.git
-````
+   git clone https://github.com/Rxnel-ysr/PHP-Autoloader.git
+    ```
 
 2. **Require the autoload file** in your entry script:
 
